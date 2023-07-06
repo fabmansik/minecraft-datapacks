@@ -1,3 +1,14 @@
-# minecraft-datapacks
-Here is all my created datapacks.
-If you want to check all datapacks, watch branches.
+# Monsters Off Datapack!
+This datapack prevent spawning of this mobs from your game:
+- creeper
+- drowned
+- ghast
+- husk
+- skeleton
+- stray
+- witch
+- wither skeleton
+- zombie
+- zombie villager
+- zombified piglin
+Enjoy the game!
