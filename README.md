@@ -11,4 +11,5 @@ This datapack prevent spawning of this mobs from your game:
 - zombie
 - zombie villager
 - zombified piglin
+  
 Enjoy the game!
