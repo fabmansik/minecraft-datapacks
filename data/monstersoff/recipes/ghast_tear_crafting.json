@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "QIQ",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "Q": {
+            "item": "minecraft:quartz_block"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:ghast_tear",
+        "count": 1
+    }
+}

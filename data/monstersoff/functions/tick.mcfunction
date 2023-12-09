@@ -1,0 +1,12 @@
+execute as @e[type=minecraft:creeper] at @s if score creeper monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:drowned] at @s if score drowned monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:ghast] at @s if score ghast monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:husk] at @s if score husk monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:skeleton] at @s if score skeleton monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:stray] at @s if score stray monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:witch] at @s if score witch monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:wither] at @s if score wither monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:wither_skeleton] at @s if score wither_skeleton monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:zombie] at @s if score zombie monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:zombie_villager] at @s if score zombie_villager monstersoff matches 0 run tp @s ~ ~-500 ~
+execute as @e[type=minecraft:zombified_piglin] at @s if score example monstersoff matches 0 run tp @s ~ ~-500 ~
